@@ -1,18 +1,18 @@
 name: "My Website"
 output_dir: "docs"  # docs directory of master branch
 navbar:
-  title: "xxx's website"
+  title: "Zhaoping Hu's website"
   type: inverse
   left:
     - text: "Home"
       href: index.html
-    - text: "Page1"
+    - text: "mengdao"
       href: Page1.html
-    - text: "Page2"
+    - text: "SWAT"
       href: Page2.html
-    - text: "Page3"
+    - text: "myself"
       href: Page3.html      
-    - text: "Page4"
+    - text: "next project"
       menu:
         - text: "Page4.1"
           href: Page4.1.html

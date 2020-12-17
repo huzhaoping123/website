@@ -5,6 +5,8 @@ output:
     df_print: paged
 ---
 
+<img src="figs/test_11.tif" alt="drawing" width="400"/>
+
 **Computing and Programming for Environmental Research (ESE5023)**  
 https://zhu-group.github.io/ese5023  
 
